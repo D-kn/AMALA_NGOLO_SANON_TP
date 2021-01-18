@@ -1,6 +1,6 @@
 # This is the initial repository of the TP4
 
-This Project is part of the course "Software Engineering of Interactive Systems (GLSI)" and aimed to develop a video game "Brick-breaker" with MonoGame, a C# framework used by game developers to make games. 
+This Project is part of the course <b> "Software Engineering of Interactive Systems (GLSI)" </b> and aimed to develop a video game "Brick-breaker" with MonoGame, a C# framework used by game developers to make games. 
 
 
 # how to contribute?
